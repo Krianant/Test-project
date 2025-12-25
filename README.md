@@ -15,4 +15,4 @@ I am passionate about protecting organisations through proactive threat detectio
 |-------------------------------------------------|----------------------------|------------|
 | Google IT Support                               | ✅ Completed               | Aug 2024   |
 | Google Cybersecurity Professional Certificate   | 📊 In Progress (Course 2/9) | Ongoing    | 2025–2026  |
-#| TryHackMe Pre-Security Path                     | ~60% complete              | Ongoing    |
+<!--| TryHackMe Pre-Security Path                     | ~60% complete              | Ongoing    |
